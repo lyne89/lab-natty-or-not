@@ -23,13 +23,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Imagem realista
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei que a IA criasse uma imagem realista de acordo com minhas orientações
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
