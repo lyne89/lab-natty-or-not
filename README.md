@@ -32,7 +32,8 @@ Microsoft Copilot
 Solicitei que a IA criasse uma imagem realista de acordo com minhas orientações
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apresente os resultados do seu projeto![uma criança brincando com um cachorro num parque num dia de sol](https://github.com/user-attachments/assets/a91a2cce-46fa-4513-a5cc-af6fe5e055e3)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
